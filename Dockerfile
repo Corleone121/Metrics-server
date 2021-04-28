@@ -1,0 +1,1 @@
+From mirrorgooglecontainers/metrics-server-amd64
