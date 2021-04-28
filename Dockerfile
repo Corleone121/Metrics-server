@@ -1,1 +1,1 @@
-From mirrorgooglecontainers/metrics-server-amd64
+From metrics-server-amd64:v0.3.6
